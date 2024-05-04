@@ -1,0 +1,35 @@
+.person-pic {
+    object-fit: cover;
+    width: 250px;
+    height: 250px !important;
+}
+
+.title-text {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.batch-text {
+    font-size: 2em;
+}
+
+.person-pic-large {
+    object-fit: cover;
+    width: 100%;
+    height: 500px;
+}
+
+.category-1 {
+    border-left: 20px solid #dc3545 !important;
+    border-right: 20px solid #dc3545 !important;
+}
+
+.category-2 {
+    border-left: 20px solid #ffc107 !important;
+    border-right: 20px solid #ffc107 !important;
+}
+
+.category-3 {
+    border-left: 20px solid #0dcaf0 !important;
+    border-right: 20px solid #0dcaf0 !important;
+}
