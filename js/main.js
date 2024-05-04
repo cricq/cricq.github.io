@@ -1,4 +1,4 @@
-const ServerUrl = 'http://192.168.77.250:8080';
+const ServerUrl = 'https://resolved-kiwi-certainly.ngrok-free.app';
 const teams = ['team 1', 'team 2', 'team 3', 'team 4', 'team 5'];
 var playerDataResponse = "";
 
