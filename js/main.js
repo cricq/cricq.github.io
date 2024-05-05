@@ -82,7 +82,6 @@ insertPlayerElements = () => {
         data.forEach(player => {
             if (player['TeamName'] !== '') {
                 document.querySelector('#players-with-team').children[teams.indexOf(player['TeamName'])].appendChild(makePlayerElement(player));
-                console.log(player);
                 return;
             }
             const playerElement = makePlayerElement(player);
