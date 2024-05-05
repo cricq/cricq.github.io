@@ -1,5 +1,5 @@
 const ServerUrl = 'https://resolved-kiwi-certainly.ngrok-free.app';
-const teams = ['team 1', 'team 2', 'team 3', 'team 4', 'team 5'];
+const teams = ['Swift Stalkers', 'Java Jaguars', 'Ruby Raptors', 'Kotlin Knights', 'Dart Devils'];
 var playerDataResponse = "";
 
 makePlayerElement = (playerData) => {
