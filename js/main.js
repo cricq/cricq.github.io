@@ -1,4 +1,4 @@
-const ServerUrl = 'https://resolved-kiwi-certainly.ngrok-free.app';
+const ServerUrl = 'http://localhost:8080'
 const teams = ['Swift Stalkers', 'Java Jaguars', 'Ruby Raptors', 'Kotlin Knights', 'Dart Devils'];
 var playerDataResponse = "";
 
